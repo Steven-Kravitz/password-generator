@@ -1,0 +1,19 @@
+* {
+    border: 1px solid red;
+}
+
+html {
+    background-color: rgb(250, 248, 248);
+}
+
+.container {
+    background-color: white;
+    width: 300px;
+  /* border: ; */
+  padding: 50px;
+  margin: 20px;
+}
+
+#passwordBox {
+    height: 150px;
+}

@@ -31,7 +31,7 @@ function generatePassword() {
   var noUpper = letterSetLower.concat(numberSet, specialSet);
   var noLower = letterSetUpper.concat(numberSet, specialSet);
   var password = "";
-if (length >= "8" && length <= "128") {
+if (length >= 8 && length <= 128) {
 
 
   // All True
